@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-  def show
+  def index
     @users = "You've done it!"
   end
 end
